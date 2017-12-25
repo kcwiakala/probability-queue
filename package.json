@@ -1,0 +1,23 @@
+{
+  "name": "probability-queue",
+  "version": "0.1.0",
+  "description": "Structure for drawing items with specified probabilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kcwiakala/probability-queue.git"
+  },
+  "keywords": [
+    "random",
+    "pick",
+    "probability",
+    "draw",
+    "probability",
+    "queue"
+  ],
+  "author": "kcwiakala",
+  "license": "ISC"
+}
