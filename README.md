@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/kcwiakala/probability-queue.svg?branch=master)](https://travis-ci.org/kcwiakala/probability-queue)
+[![Coverage Status](https://coveralls.io/repos/github/kcwiakala/probability-queue/badge.svg?branch=master)](https://coveralls.io/github/kcwiakala/probability-queue?branch=master)
 
 Simple priority queue picking items based on weight driven probability.
 
